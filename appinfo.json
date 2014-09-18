@@ -1,0 +1,17 @@
+{
+  "uuid": "e9989066-e8a2-49a8-9a81-6eaefe091c3b",
+  "shortName": "door",
+  "longName": "door",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}

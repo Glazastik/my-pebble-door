@@ -1,0 +1,8 @@
+argv = ['/Users/glaz/pebble-dev/PebbleSDK-2.0.1/Pebble/waf', 'configure', 'build']
+environ = {'SSH_AUTH_SOCK': '/tmp/launch-0sufjY/Listeners', 'PYTHONPATH': '/Users/glaz/pebble-dev/PebbleSDK-current/bin/../.env/lib/python2.7/site-packages', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'SHELL': '/bin/bash', 'LOGNAME': 'glaz', 'USER': 'glaz', 'HOME': '/Users/glaz', 'ITERM_PROFILE': 'Default', 'PATH': '/Users/glaz/pebble-dev/PebbleSDK-2.0.1/arm-cs-tools/bin:/usr/local/heroku/bin:/Users/glaz/pebble-dev/PebbleSDK-current/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin', 'DISPLAY': '/tmp/launch-5eYPMy/org.macosforge.xquartz:0', 'TMPDIR': '/var/folders/nc/9rh_4bh101x2vntlfbt3f9bw0000gn/T/', 'TERM_PROGRAM': 'iTerm.app', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-SIJ70W/Render', 'COLORFGBG': '7;0', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', 'cid': '() {  curl "https://chalmers.it/auth/search.php?cid=$1"\n}', 'PWD': '/Users/glaz/code/pebble-dev/door', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'ITERM_SESSION_ID': 'w0t0p0', '_': '/Users/glaz/pebble-dev/PebbleSDK-2.0.1/Pebble/waf', '__CHECKFIX1436934': '1', 'PEBBLE_PHONE': '192.168.1.80'}
+files = ['/Users/glaz/code/pebble-dev/door/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 2, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/glaz/code/pebble-dev/door/build'
+run_dir = '/Users/glaz/code/pebble-dev/door'
+top_dir = '/Users/glaz/code/pebble-dev/door'
